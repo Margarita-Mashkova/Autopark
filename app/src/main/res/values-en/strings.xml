@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Autopark</string>
+    <string name="btn_edit">Edit</string>
+    <string name="btn_add">Add</string>
+    <string name="label_report">Car report</string>
+    <string name="enter_status">Car status</string>
+    <string name="empty">No data</string>
+    <string name="btn_import">Import JSON</string>
+    <string name="btn_export">Export JSON</string>
+    <string name="btn_report">Report</string>
+    <string name="title_cars">Auto park</string>
+    <string name="label_cared">Cars cared:</string>
+    <string name="label_canceled">Cars canceled:</string>
+    <string name="label_salon">Cars in salon:</string>
+    <string name="label_add">Add car</string>
+    <string name="label_car_name">Car name</string>
+    <string name="label_car_status">Car status</string>
+    <string name="label_car_client">Client FIO</string>
+    <string name="btn_deleteAll">Delete All</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Автопарк</string>
+    <string name="btn_edit">Изменить</string>
+    <string name="btn_add">Добавить</string>
+    <string name="label_report">Отчет по авто</string>
+    <string name="enter_status">Статус авто</string>
+    <string name="empty">Нет данных</string>
+    <string name="btn_import">Импорт JSON</string>
+    <string name="btn_export">Экспорт JSON</string>
+    <string name="btn_report">Отчет</string>
+    <string name="title_cars">Автопарк</string>
+    <string name="label_cared">Машин на руках:</string>
+    <string name="label_canceled">Машин списано</string>
+    <string name="label_salon">Машин в салоне</string>
+    <string name="label_add">Прием автомобиля</string>
+    <string name="label_car_name">Наименование машины</string>
+    <string name="label_car_status">Статус машины</string>
+    <string name="label_car_client">ФИО клиента</string>
+    <string name="btn_deleteAll">Удалить все</string>
+</resources>
